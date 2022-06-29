@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Unwanted files
+keys.md 
+config.json

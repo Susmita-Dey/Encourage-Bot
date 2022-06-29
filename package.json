@@ -1,0 +1,29 @@
+{
+  "name": "encourage-bot",
+  "version": "1.0.0",
+  "description": "Discord bot to encourage people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Susmita-Dey/Encourage-Bot.git"
+  },
+  "keywords": [
+    "discord-bot"
+  ],
+  "author": "Susmita Dey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Susmita-Dey/Encourage-Bot/issues"
+  },
+  "homepage": "https://github.com/Susmita-Dey/Encourage-Bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.15.0",
+    "@discordjs/rest": "^0.5.0",
+    "discord-api-types": "^0.35.0",
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1"
+  }
+}
